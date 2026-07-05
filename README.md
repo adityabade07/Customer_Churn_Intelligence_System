@@ -65,11 +65,7 @@ customer_churn_prediction/
 
 ---
 
-## Dashboard
 
-(Add screenshots after deployment)
-
----
 
 ## Future Improvements
 
